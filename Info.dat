@@ -36,13 +36,13 @@
             "_suggestions" : [
               "Chroma"
             ],
-            "_colorLeft" : {"r":0.965,"g":0.357,"b":0.89},
-            "_colorRight" : {"r":0.322,"g":0.6,"b":0.827},
+            "_colorLeft" : {"r":1,"g":0.439,"b":0.651},
+            "_colorRight" : {"r":0.439,"g":0.839,"b":1},
             "_obstacleColor" : {"r":0.502,"g":0.502,"b":0.502},
-            "_envColorLeft" : {"r":0.965,"g":0.357,"b":0.89},
-            "_envColorRight" : {"r":0.322,"g":0.6,"b":0.827},
-            "_envColorLeftBoost" : {"r":1,"g":0.386,"b":0.386},
-            "_envColorRightBoost" : {"r":0.386,"g":0.402,"b":1}
+            "_envColorLeft" : {"r":1,"g":0.439,"b":0.651},
+            "_envColorRight" : {"r":0.439,"g":0.839,"b":1},
+            "_envColorLeftBoost" : {"r":1,"g":0.592,"b":0.439},
+            "_envColorRightBoost" : {"r":1,"g":0.318,"b":0.682}
           }
         },
         {
@@ -58,13 +58,14 @@
             "_suggestions" : [
               "Chroma"
             ],
-            "_colorLeft" : {"r":0.965,"g":0.357,"b":0.89},
-            "_colorRight" : {"r":0.322,"g":0.6,"b":0.827},
+            "_colorLeft" : {"r":1,"g":0.439,"b":0.651},
+            "_colorRight" : {"r":0.439,"g":0.839,"b":1},
             "_obstacleColor" : {"r":0.725,"g":0.725,"b":0.725},
-            "_envColorLeft" : {"r":0.965,"g":0.357,"b":0.89},
+            "_envColorLeft" : {"r":1,"g":0.439,"b":0.651},
+            "_envColorRight" : {"r":0.439,"g":0.839,"b":1},
             "_envColorWhite" : {"r":0.725,"g":0.725,"b":0.725},
-            "_envColorLeftBoost" : {"r":1,"g":0.384,"b":0.384},
-            "_envColorRightBoost" : {"r":0.384,"g":0.4,"b":1}
+            "_envColorLeftBoost" : {"r":1,"g":0.592,"b":0.439},
+            "_envColorRightBoost" : {"r":1,"g":0.318,"b":0.682}
           }
         },
         {
@@ -80,12 +81,12 @@
             "_suggestions" : [
               "Chroma"
             ],
-            "_colorLeft" : {"r":0.965,"g":0.357,"b":0.89},
-            "_colorRight" : {"r":0.322,"g":0.6,"b":0.827},
-            "_envColorLeft" : {"r":0.965,"g":0.357,"b":0.89},
-            "_envColorRight" : {"r":0.322,"g":0.6,"b":0.827},
-            "_envColorLeftBoost" : {"r":1,"g":0.384,"b":0.384},
-            "_envColorRightBoost" : {"r":0.384,"g":0.4,"b":1}
+            "_colorLeft" : {"r":1,"g":0.439,"b":0.651},
+            "_colorRight" : {"r":0.439,"g":0.839,"b":1},
+            "_envColorLeft" : {"r":1,"g":0.439,"b":0.651},
+            "_envColorRight" : {"r":0.439,"g":0.839,"b":1},
+            "_envColorLeftBoost" : {"r":1,"g":0.592,"b":0.439},
+            "_envColorRightBoost" : {"r":1,"g":0.317,"b":0.684}
           }
         }
       ]
@@ -106,12 +107,12 @@
             "_suggestions" : [
               "Chroma"
             ],
-            "_colorLeft" : {"r":0.965,"g":0.357,"b":0.89},
-            "_colorRight" : {"r":0.322,"g":0.6,"b":0.827},
-            "_envColorLeft" : {"r":0.965,"g":0.357,"b":0.89},
-            "_envColorRight" : {"r":0.322,"g":0.6,"b":0.827},
-            "_envColorLeftBoost" : {"r":1,"g":0.384,"b":0.384},
-            "_envColorRightBoost" : {"r":0.384,"g":0.4,"b":1}
+            "_colorLeft" : {"r":1,"g":0.439,"b":0.651},
+            "_colorRight" : {"r":0.439,"g":0.839,"b":1},
+            "_envColorLeft" : {"r":1,"g":0.439,"b":0.651},
+            "_envColorRight" : {"r":0.439,"g":0.839,"b":1},
+            "_envColorLeftBoost" : {"r":1,"g":0.592,"b":0.439},
+            "_envColorRightBoost" : {"r":1,"g":0.318,"b":0.682}
           }
         }
       ]
